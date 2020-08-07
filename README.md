@@ -1,2 +1,2 @@
 # Hearing-Aid-Experiment-Data
-Files from an open-ended project I completed for one of my classes
+Files from an open-ended project I completed for one of my classes. I used a microphone and potentiometer and, using LoggerPro, recorded the distances at which a hearing aid started to make a loud screeching noise (feedback). I also measured the sound pressure of the feedback. I then performed uncertainty analysis on my measurements using the Mean Uncertainty formula, and did t-testing on the results to see if I could claim with 95% accuracy that my datapoints differed from one another.
